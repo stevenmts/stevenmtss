@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    margin-top: 40px;
+   }
+   
+   h4{
+       text-align: center;
+      }
+      .ms{
+        background-color: rgb(58, 58, 156,0.8);
+        width: 750px;
+        padding: 30px;
+        border-radius: 10px;
+        
+        box-shadow: 0 0 10px rgb(0, 0, 0,0.3);
+        margin: 0 auto;
+     
+     
+     }
+     
+     .stv{
+         margin-top: 15px;
+     }
+     
+     .lop{
+         width: 98%;
+         padding: 8px;
+         border-radius: 5px;
+         
+     }
+     select{
+        width: 755px;
+        padding: 8px;
+        border-radius: 5px;
+    }
+    
+    textarea{
+        width: 750px;
+        height: 100px;
+    }
+
+body{
+    background: linear-gradient(rgba(136, 136, 206, 0.7), rgba(136, 136, 206, 0.7)), url(../img/backgroud.jpeg);
+    background-size: cover;
+    color: white;
+
+}
+.boton {
+    width: 101%;
+    height: 50px;
+    font-family: 'Gill Sans';
+    font-size: large;
+    margin-top: 20px;
+    background-color: rgba(85, 180, 85, 1);
+    color:  white;
+}
